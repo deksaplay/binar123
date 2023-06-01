@@ -3,7 +3,7 @@
    <description></description>
    <name>span_Create an Account</name>
    <tag></tag>
-   <elementGuidId>33979d23-4b2b-483b-8b88-9467bf321f2b</elementGuidId>
+   <elementGuidId>bcf202c4-0f99-4f39-9d0d-e69ef3a406ce</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4bf5395f-6f6c-46e1-928d-c8add830102c</webElementGuid>
+      <webElementGuid>cf06cbe9-4646-4691-b0c9-3128f10f35f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Create an Account</value>
-      <webElementGuid>3f704890-5f60-4caf-8427-076ba2632a49</webElementGuid>
+      <webElementGuid>8899ebc8-ab6a-4cae-ad6b-85f49e641eb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;form-validate&quot;)/div[@class=&quot;actions-toolbar&quot;]/div[@class=&quot;primary&quot;]/button[@class=&quot;action submit primary&quot;]/span[1]</value>
-      <webElementGuid>4754ba0f-4e57-4c8a-9725-c2301506e60b</webElementGuid>
+      <webElementGuid>16d79ee0-d986-496c-b0b7-ab8b784df42e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='form-validate']/div/div/button/span</value>
-      <webElementGuid>b7d4f4f8-a172-4b10-b9df-9722ce398ec6</webElementGuid>
+      <webElementGuid>7aefe17f-3e4b-49bb-bbb9-f0aedf6d4050</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Password'])[1]/following::span[1]</value>
-      <webElementGuid>88cff8f4-02c6-4b72-85e7-a1f5c2e36bbf</webElementGuid>
+      <webElementGuid>9119378d-c345-4c30-a7e7-e22847f80cd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Strong'])[1]/following::span[2]</value>
-      <webElementGuid>3c43a8b6-3c42-4faf-95fb-be13451e27aa</webElementGuid>
+      <webElementGuid>21174a16-855b-40a8-8250-684a531ddae7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::span[1]</value>
-      <webElementGuid>0601f62d-c115-4227-9df2-f5a17b02a5c9</webElementGuid>
+      <webElementGuid>e8ada814-1a7d-41f7-a273-62eb25a4ed69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Newsletter'])[1]/preceding::span[2]</value>
-      <webElementGuid>720fc897-1f99-49a3-a1a0-8db72f7d68ae</webElementGuid>
+      <webElementGuid>97fe077c-cc48-4512-9109-bc27c3435233</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/button/span</value>
-      <webElementGuid>a94cf520-09df-4558-80c6-47d05334499a</webElementGuid>
+      <webElementGuid>e8a0cc7c-9385-4d74-a865-ff90b5df792a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Create an Account' or . = 'Create an Account')]</value>
-      <webElementGuid>0706dddf-6f44-4017-b2ec-3d9707799315</webElementGuid>
+      <webElementGuid>875cf9d0-8c07-4c21-8ad0-9a2bdbf34f26</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

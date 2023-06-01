@@ -17,3 +17,31 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://magento.softwaretestingboard.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_Home Page/a_Sign In'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Customer Login/input_Email_loginusername'), 'syafradha@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Customer Login/input_Password_loginpassword'), 'HqlUIEMTRIgdjjQs9ihJXw==')
+
+WebUI.click(findTestObject('Object Repository/Page_Customer Login/span_Sign In'))
+
+WebUI.click(findTestObject('Object Repository/Page_Home Page/img_Add to Compare_product-image-photo'))
+
+WebUI.click(findTestObject('Object Repository/Page_Breathe-Easy Tank/div_XS'))
+
+WebUI.click(findTestObject('Object Repository/Page_Breathe-Easy Tank/div_M'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Breathe-Easy Tank/input_Qty_qty'), '3')
+
+WebUI.click(findTestObject('Object Repository/Page_Breathe-Easy Tank/span_Add to Cart'))
+
+WebUI.click(findTestObject('Object Repository/Page_Breathe-Easy Tank/div_Color_option-label-color-93-item-59'))
+
+WebUI.click(findTestObject('Object Repository/Page_Breathe-Easy Tank/span_Add to Cart'))
+
+WebUI.closeBrowser()
+

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_My Account</name>
+   <name>span_Welcome, deksa syafradha</name>
    <tag></tag>
-   <elementGuidId>ccf1ccd4-b962-47f8-a6ed-1e62141415d6</elementGuidId>
+   <elementGuidId>f3ee364c-930c-46d7-a119-b521d04f4c23</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>span.base</value>
+         <value>span.logged-in</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//main[@id='maincontent']/div[2]/div/div/h1/span</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to Content'])[1]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,94 +22,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e17373f1-7bbf-42a9-8afd-4ce3ec18fdd4</webElementGuid>
+      <webElementGuid>76fffaab-9ff4-4e92-a6d1-9765a21223d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>base</value>
-      <webElementGuid>486fa8ee-6abd-423a-83e5-73ca97770d49</webElementGuid>
+      <value>logged-in</value>
+      <webElementGuid>14c8308c-aa2f-4400-be2c-625779044ca0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-ui-id</name>
+      <name>data-bind</name>
       <type>Main</type>
-      <value>page-title-wrapper</value>
-      <webElementGuid>7db43d99-6ed1-40dc-b415-8dfda05ef53f</webElementGuid>
+      <value>text: new String('Welcome, %1!').replace('%1', customer().fullname)</value>
+      <webElementGuid>e9fc8165-1999-44af-a93f-4974f7e8ead1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>My Account</value>
-      <webElementGuid>bc2113a4-617a-4101-ae3d-92fecfdf28f2</webElementGuid>
+      <value>Welcome, deksa syafradha!</value>
+      <webElementGuid>9047ecf8-6175-434d-874d-18c1e684cb14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;page-title-wrapper&quot;]/h1[@class=&quot;page-title&quot;]/span[@class=&quot;base&quot;]</value>
-      <webElementGuid>41d9259f-a3b6-4a31-a587-cbd073d54f4c</webElementGuid>
+      <value>/html[1]/body[@class=&quot;account customer-account-index page-layout-2columns-left&quot;]/div[@class=&quot;page-wrapper&quot;]/header[@class=&quot;page-header&quot;]/div[@class=&quot;panel wrapper&quot;]/div[@class=&quot;panel header&quot;]/ul[@class=&quot;header links&quot;]/li[@class=&quot;greet welcome&quot;]/span[@class=&quot;logged-in&quot;]</value>
+      <webElementGuid>ff2fd72c-887b-4f60-acfa-ea0cf3a98c29</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//main[@id='maincontent']/div[2]/div/div/h1/span</value>
-      <webElementGuid>b04375b7-0f85-490c-bb51-3a0da80342db</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to Content'])[1]/following::span[1]</value>
+      <webElementGuid>128fba8e-dc5f-4d4d-8cc2-d5f11cc41e05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank you for registering with Main Website Store.'])[1]/following::span[1]</value>
-      <webElementGuid>dc1ff239-eeb5-4f3f-b379-3258d8118067</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change'])[1]/preceding::span[1]</value>
+      <webElementGuid>7c8dc970-c096-454f-9031-3e3b4bb95986</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Out'])[4]/following::span[1]</value>
-      <webElementGuid>834a1ae1-5e81-40a0-832a-e87c99577683</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[2]/preceding::span[3]</value>
+      <webElementGuid>aeb87296-8267-4bb2-8035-84993b022926</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Information'])[1]/preceding::span[1]</value>
-      <webElementGuid>1e0d7db2-a29a-43b6-8fd6-e8ef798d60d9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Information'])[1]/preceding::span[1]</value>
-      <webElementGuid>79842025-28cc-4351-89e6-1f980d75749b</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Welcome, deksa syafradha!']/parent::*</value>
+      <webElementGuid>2820d16d-1eac-4d3d-ac99-b7b4cf7e765c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h1/span</value>
-      <webElementGuid>36b541f2-3b9e-48b2-8a2f-f9be93cc727e</webElementGuid>
+      <value>//li/span</value>
+      <webElementGuid>34f021f9-1520-4b3e-b992-abfde488b530</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'My Account' or . = 'My Account')]</value>
-      <webElementGuid>d482e265-9790-48ad-8567-0ee3f5fbc08f</webElementGuid>
+      <value>//span[(text() = 'Welcome, deksa syafradha!' or . = 'Welcome, deksa syafradha!')]</value>
+      <webElementGuid>19b7179d-6a92-4539-a2e4-f04a8fe5df53</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

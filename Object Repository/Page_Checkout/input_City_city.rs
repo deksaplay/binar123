@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Last Name_lastname</name>
+   <name>input_City_city</name>
    <tag></tag>
-   <elementGuidId>a501438c-87cb-4350-bda2-f90745d2ee11</elementGuidId>
+   <elementGuidId>6859f742-1b9c-45e6-a060-673a787a8215</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#lastname</value>
+         <value>#TK9VFUW</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='lastname']</value>
+         <value>//input[@id='TK9VFUW']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a80a50a2-12a5-4492-a9ec-01eb2b0251c2</webElementGuid>
+      <webElementGuid>f98138d9-739e-4de2-a2b4-e46e51111ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-text</value>
+      <webElementGuid>48ad3ff2-4a42-4026-bae5-6bdd03973861</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,55 +38,35 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>fba44b24-e06d-43bb-a2c5-f8c05b36a0f4</webElementGuid>
+      <webElementGuid>faf1a751-66ef-42de-941a-4873e14258bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>data-bind</name>
       <type>Main</type>
-      <value>lastname</value>
-      <webElementGuid>ffab3fa3-79af-4393-8074-55ec0197bfaa</webElementGuid>
+      <value>
+    value: value,
+    valueUpdate: 'keyup',
+    hasFocus: focused,
+    attr: {
+        name: inputName,
+        placeholder: placeholder,
+        'aria-describedby': getDescriptionId(),
+        'aria-required': required,
+        'aria-invalid': error() ? true : 'false',
+        id: uid,
+        disabled: disabled
+    }</value>
+      <webElementGuid>7caea1c3-a704-475d-9943-7bb1c96d09af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>lastname</value>
-      <webElementGuid>50ef8179-453a-4945-98c8-e1465d7a7229</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>title</name>
-      <type>Main</type>
-      <value>Last Name</value>
-      <webElementGuid>ca2f7497-ef40-430c-bdc4-55cddae3ff3b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>input-text required-entry</value>
-      <webElementGuid>8caeb2de-9fef-49bc-b3ae-087a9ed95172</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-validate</name>
-      <type>Main</type>
-      <value>{required:true}</value>
-      <webElementGuid>7e833d19-1880-4ecd-9a8a-2b5c812d944d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>99b5cc91-451e-41b0-a6d5-5bf1d12c1a18</webElementGuid>
+      <value>city</value>
+      <webElementGuid>35449946-bc93-40ed-af35-3a69f7f696f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,46 +74,62 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>853cec57-51fb-44bb-80ca-0b409bcaa40b</webElementGuid>
+      <webElementGuid>a0186ad0-c41e-465e-be96-30ba823decf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>4a7e1d02-d64c-47b3-a825-4e9772fc42c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>TK9VFUW</value>
+      <webElementGuid>77e912de-5875-4cc4-bed3-8faa7bc40cfd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;lastname&quot;)</value>
-      <webElementGuid>e488bade-3dc3-468e-8a9a-ddd4455cde3f</webElementGuid>
+      <value>id(&quot;TK9VFUW&quot;)</value>
+      <webElementGuid>903d79ab-562a-4339-8b10-673c262a00ff</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='lastname']</value>
-      <webElementGuid>4dd05b91-22e0-4cd0-8c9e-91868f10a3d2</webElementGuid>
+      <value>//input[@id='TK9VFUW']</value>
+      <webElementGuid>ed218307-c29b-4e02-b572-d8fb2c9c666a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='form-validate']/fieldset/div[2]/div/input</value>
-      <webElementGuid>ee0687af-5674-4cbd-87a8-f9883022b817</webElementGuid>
+      <value>//div[@id='shipping-new-address-form']/div[4]/div/input</value>
+      <webElementGuid>9e56bacc-ef12-4015-8b58-4dcf3257f432</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>92e9276f-3ad0-49c1-9e35-f026a1f29e12</webElementGuid>
+      <value>//div[4]/div/input</value>
+      <webElementGuid>ae94af6b-f2e7-4768-88d1-1c53091abdc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'lastname' and @name = 'lastname' and @title = 'Last Name']</value>
-      <webElementGuid>371827a5-0e58-4560-973b-c9f57f1d3efe</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'city' and @id = 'TK9VFUW']</value>
+      <webElementGuid>4915fe40-3a65-4004-83a8-36b9b1fcac12</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

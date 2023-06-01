@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_My Account</name>
+   <name>span_Thank you for your purchase</name>
    <tag></tag>
-   <elementGuidId>ccf1ccd4-b962-47f8-a6ed-1e62141415d6</elementGuidId>
+   <elementGuidId>3a37f68f-a529-4749-9c58-06e2c48d0296</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//main[@id='maincontent']/div[2]/div/div/h1/span</value>
+         <value>//main[@id='maincontent']/div/h1/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e17373f1-7bbf-42a9-8afd-4ce3ec18fdd4</webElementGuid>
+      <webElementGuid>d6b7240d-ee93-40ea-8fac-ff1dced8efdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>base</value>
-      <webElementGuid>486fa8ee-6abd-423a-83e5-73ca97770d49</webElementGuid>
+      <webElementGuid>e49dccf7-37eb-4475-ae0f-bb723f355b97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,39 +38,31 @@
       <name>data-ui-id</name>
       <type>Main</type>
       <value>page-title-wrapper</value>
-      <webElementGuid>7db43d99-6ed1-40dc-b415-8dfda05ef53f</webElementGuid>
+      <webElementGuid>4a00fe6e-deba-4007-8e96-96b16c142c71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>My Account</value>
-      <webElementGuid>bc2113a4-617a-4101-ae3d-92fecfdf28f2</webElementGuid>
+      <value>Thank you for your purchase!</value>
+      <webElementGuid>08b693f1-a65e-4d91-9820-2631a1af853b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;page-title-wrapper&quot;]/h1[@class=&quot;page-title&quot;]/span[@class=&quot;base&quot;]</value>
-      <webElementGuid>41d9259f-a3b6-4a31-a587-cbd073d54f4c</webElementGuid>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;page-title-wrapper&quot;]/h1[@class=&quot;page-title&quot;]/span[@class=&quot;base&quot;]</value>
+      <webElementGuid>cfdaf54d-1e3a-4c40-ab1d-e4ece00b6f2d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//main[@id='maincontent']/div[2]/div/div/h1/span</value>
-      <webElementGuid>b04375b7-0f85-490c-bb51-3a0da80342db</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank you for registering with Main Website Store.'])[1]/following::span[1]</value>
-      <webElementGuid>dc1ff239-eeb5-4f3f-b379-3258d8118067</webElementGuid>
+      <value>//main[@id='maincontent']/div/h1/span</value>
+      <webElementGuid>46a2424b-ed87-47f7-8194-9f2e96b4956a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,23 +70,39 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Out'])[4]/following::span[1]</value>
-      <webElementGuid>834a1ae1-5e81-40a0-832a-e87c99577683</webElementGuid>
+      <webElementGuid>6e8af67a-28e6-43e8-af86-d071b412d060</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Information'])[1]/preceding::span[1]</value>
-      <webElementGuid>1e0d7db2-a29a-43b6-8fd6-e8ef798d60d9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Out'])[3]/following::span[1]</value>
+      <webElementGuid>00c71bd3-74aa-424c-9c90-be55dc821d39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Information'])[1]/preceding::span[1]</value>
-      <webElementGuid>79842025-28cc-4351-89e6-1f980d75749b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print receipt'])[1]/preceding::span[1]</value>
+      <webElementGuid>80696a65-1efe-4376-9e5e-3e878fba9153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue Shopping'])[1]/preceding::span[1]</value>
+      <webElementGuid>2387f776-3f90-4838-a7c1-358c513e5424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thank you for your purchase!']/parent::*</value>
+      <webElementGuid>20f88547-3bb5-40c2-b77a-cc446b65737f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,14 +110,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h1/span</value>
-      <webElementGuid>36b541f2-3b9e-48b2-8a2f-f9be93cc727e</webElementGuid>
+      <webElementGuid>594a0a53-996d-4416-bc2a-a17fb4c52731</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'My Account' or . = 'My Account')]</value>
-      <webElementGuid>d482e265-9790-48ad-8567-0ee3f5fbc08f</webElementGuid>
+      <value>//span[(text() = 'Thank you for your purchase!' or . = 'Thank you for your purchase!')]</value>
+      <webElementGuid>ebfb4ca6-dc90-4cc9-a3ab-d56e5a10c678</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

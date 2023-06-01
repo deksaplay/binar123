@@ -31,7 +31,7 @@ WebUI.click(findTestObject('Object Repository/login/Page_Customer Login/span_Sig
 
 WebUI.click(findTestObject('Object Repository/login/Page_Home Page/img'))
 
-WebUI.click(findTestObject('Object Repository/login/Page_Home Page/span_Welcome, deksa syafradha'))
+WebUI.verifyElementChecked(findTestObject('Object Repository/login/Page_Home Page/span_Welcome, deksa syafradha'), 0)
 
 WebUI.closeBrowser()
 

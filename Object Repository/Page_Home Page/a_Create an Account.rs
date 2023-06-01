@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Create an Account</name>
    <tag></tag>
-   <elementGuidId>35b5f468-0901-4060-a8c3-216d72424a46</elementGuidId>
+   <elementGuidId>6fb1bb8a-753e-4b00-816e-195c798e9a74</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>152c58b4-32cb-44cc-88f1-9cab4050dd53</webElementGuid>
+      <webElementGuid>d3bd6603-743e-4453-8998-87d6d268c126</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://magento.softwaretestingboard.com/customer/account/create/</value>
-      <webElementGuid>a90ddf7b-b1dc-4a8c-a11e-ffab01686adc</webElementGuid>
+      <webElementGuid>6fca28d0-4ab1-4e72-8288-f34e2fea8830</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Create an Account</value>
-      <webElementGuid>6f118406-7664-4ec6-842e-3a3f1c8169e5</webElementGuid>
+      <webElementGuid>423f764b-56c3-4c8d-a8cf-04bffead9d38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;cms-home cms-index-index page-layout-1column&quot;]/div[@class=&quot;page-wrapper&quot;]/header[@class=&quot;page-header&quot;]/div[@class=&quot;panel wrapper&quot;]/div[@class=&quot;panel header&quot;]/ul[@class=&quot;header links&quot;]/li[3]/a[1]</value>
-      <webElementGuid>68099442-0996-47e0-b9aa-3f677ee278cb</webElementGuid>
+      <webElementGuid>5a76ad72-c7ad-439d-b1cf-e7a988e1e3ae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Create an Account')]</value>
-      <webElementGuid>f6cd014b-3b68-4d64-bb5d-cca3eb95b1cd</webElementGuid>
+      <webElementGuid>28daf142-63a1-4e8a-8e8f-d66a43bc686e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,63 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/following::a[1]</value>
-      <webElementGuid>bb393e1e-37e9-49a9-a1f9-a8e4640c473c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default welcome msg!'])[1]/following::a[2]</value>
-      <webElementGuid>df91210b-608d-4e54-b396-c234d5f669f6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle Nav'])[1]/preceding::a[1]</value>
-      <webElementGuid>1d64c7f1-2801-45e4-a82b-96a77a4ea289</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Cart'])[1]/preceding::a[2]</value>
-      <webElementGuid>ee0ed0c9-569b-491a-9278-6ac6ae95f032</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Create an Account']/parent::*</value>
-      <webElementGuid>af41d2fb-0ab1-49c8-91dd-49efa65ed1a9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[contains(@href, 'https://magento.softwaretestingboard.com/customer/account/create/')]</value>
-      <webElementGuid>cfeaff5c-7014-41ab-ad5b-f2e1d4157fea</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//li[3]/a</value>
-      <webElementGuid>e9194fff-914a-4dae-a127-2eab8c00a084</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//a[@href = 'https://magento.softwaretestingboard.com/customer/account/create/' and (text() = 'Create an Account' or . = 'Create an Account')]</value>
-      <webElementGuid>00dc0648-7c48-47ec-85e0-e06ee69014ea</webElementGuid>
+      <webElementGuid>a2fc39d4-b8a4-4ec8-a958-a47337d225c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +70,54 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to Content'])[1]/following::a[2]</value>
-      <webElementGuid>33dbe90a-cef3-4c39-b1a1-1e10e09de2c3</webElementGuid>
+      <webElementGuid>b5b249cb-0546-40f8-9ba5-842d8a5c696b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle Nav'])[1]/preceding::a[1]</value>
+      <webElementGuid>0a5c1aac-017e-419a-80ec-deb5fbe954f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Cart'])[1]/preceding::a[2]</value>
+      <webElementGuid>372a86c3-6d9d-4049-8b8b-fa0688149860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create an Account']/parent::*</value>
+      <webElementGuid>d7dc5645-58d2-4e87-845e-2d0f46cb3dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://magento.softwaretestingboard.com/customer/account/create/')]</value>
+      <webElementGuid>1ece3153-6e4a-4689-a04c-5383446a0b41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>4b574720-6ed4-4b5f-a1bb-8ad9702ed2be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento.softwaretestingboard.com/customer/account/create/' and (text() = 'Create an Account' or . = 'Create an Account')]</value>
+      <webElementGuid>846223f3-7409-4eea-86f6-3e8608480b37</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
